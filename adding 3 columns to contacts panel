@@ -1,0 +1,12 @@
+          array (
+            'name' => 'panel_body',
+            'label' => 'LBL_RECORD_BODY',
+            'columns' => 3,
+            'labelsOnTop' => true,
+            'placeholders' => true,
+            'newTab' => true,
+            'panelDefault' => 'expanded',
+            'span' => 12,
+            'fields' => 
+            array (
+              0 => 
